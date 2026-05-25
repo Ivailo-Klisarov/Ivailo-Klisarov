@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ivaylo K.
+# Hi, I’m Ivaylo K.
 
 I am an aspiring cybersecurity professional with a strong foundation in **networking, SQL, and Linux systems**. I’m passionate about helping organizations secure their infrastructure by understanding how networks operate, how data flows, and how attackers try to exploit weaknesses.
 
@@ -15,7 +15,7 @@ I’m currently seeking a **junior Security Analyst** position where I can conti
 
 ---
 
-## 💡 Skills:
+## Skills:
 - Cisco networking (OSPF, ACLs, routing protocols)
 - SQL queries and database design
 - Linux command line and bash scripting
@@ -25,6 +25,6 @@ I’m currently seeking a **junior Security Analyst** position where I can conti
 
 ---
 
-## 📫 Let’s connect:
+## Let’s connect:
 - Email: ivailokl09@gmail.com
   
