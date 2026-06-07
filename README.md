@@ -8,7 +8,7 @@ I’m currently seeking a **junior Security Analyst** position where I can conti
 
 ---
 
-## 📚 Currently working on:
+## Currently working on:
 - Preparing for **CompTIA Security+**
 - Building a **portfolio of networking, SQL, and Linux-based projects**
 - Practicing hands-on security challenges on platforms like **TryHackMe** and **Hack The Box**
